@@ -1,0 +1,25 @@
+.allPosts{
+    background-color: aliceblue;
+    padding: 50px 30px;
+    text-align: center;
+    display: block;
+}
+
+.posts {
+    width: 300px !important;
+    padding: 16px;
+    text-align: center;
+    border: 1px solid #aaa;
+    box-shadow: 0 2px 3px #ccc;
+    margin: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    background-color: #C0DDF5;
+    overflow: hidden;
+    display: inline-grid;
+}
+
+.author {
+    margin: 16px 0;
+    color: #aaa;
+}
